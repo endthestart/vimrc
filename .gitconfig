@@ -1,0 +1,7 @@
+[user]
+	name = Michael Anderson
+	email = manderso@nerdery.com
+[color]
+	ui = true
+[push]
+	default = upstream
