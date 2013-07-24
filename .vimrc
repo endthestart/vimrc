@@ -13,8 +13,8 @@ set autoindent
 set smartindent
 
 " set tabwidth and use spaces
-set tabstop=3
-set shiftwidth=3
+set tabstop=4
+set shiftwidth=4
 set expandtab
 
 " wrap long lines at 120 chars
